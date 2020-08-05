@@ -1,0 +1,25 @@
+body{
+  background-color: #ffdbc5;
+}
+
+h1{
+    margin: 55px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    color: #423144;
+    margin:30px;
+}
+img{
+  width:80%;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
